@@ -1,5 +1,10 @@
-<h2> SS GET Postman data kosong </h2>
+<h2> SS GET Postman Data kosong </h2>
 <img width="1917" height="1160" alt="image" src="https://github.com/user-attachments/assets/40c1aed2-7005-4e80-a771-10e915ae501c" />
+
+
+<H2>SS GET POSTMAN Data sudah terisi</H2>
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/38efac6e-b0f5-45da-a405-3a145a0d2532" />
+
 
 
 <h2> SS POST Postman <h2>
