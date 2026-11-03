@@ -9,3 +9,5 @@ const development = {
   dialect: process.env.DB_DIALECT
 };
 
+const production = {
+ 
